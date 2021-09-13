@@ -18,3 +18,6 @@ We organized the data into these categories: creation date, tweet content, tweet
 The dataset can be found here: https://www.kaggle.com/manchunhui/us-election-2020-tweets
 
 More of our discoveries and results of analyzing this data can be found in the file "CSCI Project 9 Final Report"
+
+The clean and unclean data used can be downloaded via this link.
+https://www.mediafire.com/file/4bnqmoq7yapkj4k/CSV_data.zip/file
